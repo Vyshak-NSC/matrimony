@@ -1,0 +1,22 @@
+.main{
+    display:flex;
+    color:black;
+    padding:5px;
+}
+
+.leftpage, .rightpage {
+    height:70vh;
+}
+.leftpage{
+    flex:1;
+    padding:5px;
+    border:1px solid #ccc;
+    padding-right: 20px;
+}
+
+.rightpage{
+    flex:1;
+    padding:5px;
+    border:1px solid #ccc;
+    padding-left: 20px;
+}

@@ -1,0 +1,12 @@
+.name{
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.password {
+    display:flex;
+    margin-bottom: 10px;
+}
+form > div > label{
+    min-width:1hh;
+}
